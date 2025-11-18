@@ -1,7 +1,4 @@
-### Hi i'm Ian 👋
-
-I am a Graduate Student in **Instructional Design** focused on how **Artificial Intelligence** can be used to design better learning experiences and improve human performance.
-I specialize in **minimalist design**, **abstract logic**, and **user-focused technology**.
+### Hi i'm Ian 👋 I am a Graduate Student in **Instructional Design** focused on how **Artificial Intelligence** can be used to design better learning experiences and improve human performance.
 ---
 ### 🌱 Learning
 * Deep diving into **Reinforcement Learning from Human Feedback (RLHF)**.
