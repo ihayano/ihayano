@@ -4,7 +4,7 @@
 * Deep diving into **Reinforcement Learning from Human Feedback (RLHF)**.
 * Advanced mobile architecture and accessible coding practices.
 
-* ### 🔭 Philosophy
+### 🔭 Philosophy
 * **Aesthetic:** Minimalist / Abstract / DIY
 * **Goal:** To build tools that empower users to learn and create.
 
