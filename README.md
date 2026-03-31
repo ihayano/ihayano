@@ -5,7 +5,7 @@
 * Advanced mobile architecture and accessible coding practices.
 
 ### 🔭 Philosophy
-* **Aesthetic:** Minimalist / Abstract / DIY
+* **Aesthetic:** Minimalist / Retro
 * **Goal:** To build tools that empower users to learn and create.
 
 ### 🚧 What I'm Working On
