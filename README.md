@@ -9,8 +9,7 @@
 * **Goal:** To build tools that empower users to learn and create.
 
 ### 🚧 What I'm Working On
-* **Mobile App Development:** Developing a health/wellness app
-* **WordPress Development:** Creating custom plugins
+* **Game Development:** 
 * **AI Research:** Experimenting with LLM prompting strategies for educational outcomes
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
